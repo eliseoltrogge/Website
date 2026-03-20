@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: page
+layout: single
 ---
 
 <i class="fas fa-envelope"></i> **E-Mail** [Oltrogge [at] em.uni-frankfurt.de](mailto:Oltrogge@em.uni-frankfurt.de)
