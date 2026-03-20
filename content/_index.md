@@ -3,7 +3,7 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: >
-  I am a third year PhD student in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
+  I am a third year Ph.D. student in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
   with a focus on sentence processing. My research primarily investigates memory retrieval 
   and predictive processing mechanisms in both language comprehension and production. 
   Currently, I am exploring the degree of incrementality in sentence processing, 

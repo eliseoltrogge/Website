@@ -17,7 +17,7 @@ images:
 - "Picknick.jpg"
 # show_action_link: true
 show_social_links: true
-subtitle: Psycholingustics PhD student at Goehte University Frankfurt
+subtitle: Psycholinguistics Ph.D. student at Goethe University Frankfurt
 text_align_left: false
 title: Elise Oltrogge
 type: home
