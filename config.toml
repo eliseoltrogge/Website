@@ -149,8 +149,8 @@ enableEmoji = true
     url = "/CV_Oltrogge.pdf"  # This points directly to the file in /static/
     weight = 4
   [[menu.header]]
-    name = "contact"
-    title = "contact"
+    name = "Contact"
+    title = "Contact"
     url = "/contact/"  # This points directly to the file in /static/
     weight = 5
 
