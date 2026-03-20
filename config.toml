@@ -151,7 +151,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Contact"
     title = "Contact"
-    url = "/contact/"  # This points directly to the file in /static/
+    url = "/get-in-touch/"  # This points directly to the file in /static/
     weight = 5
 
 
