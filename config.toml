@@ -1,4 +1,4 @@
-baseURL = "https://www.localhost.org/"
+baseURL = "https://elise-oltrogge.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Elise"
