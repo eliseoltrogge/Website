@@ -3,9 +3,6 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: >
-  I recently submitted my Ph.D. thesis in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
-  with a focus on sentence processing. My research investigates memory retrieval and predictive processing mechanisms in language comprehension and production, 
-  asking how these mechanisms unfold in real time and what units they operate on. 
   <span style="line-height: 1.8;">I recently submitted my Ph.D. thesis in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
   with a focus on sentence processing. My research investigates memory retrieval and predictive processing mechanisms in language comprehension and production, 
   asking how these mechanisms unfold in real time and what units they operate on.</span>
