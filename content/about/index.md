@@ -3,15 +3,10 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: >
-  I am a third year PhD student in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
-  with a focus on sentence processing. My research primarily investigates memory retrieval 
-  and predictive processing mechanisms in both language comprehension and production. 
-  Currently, I am exploring the degree of incrementality in sentence processing, 
-  specifically focusing on the precise units these mechanisms operate on. Using cognitive 
-  computational modeling (ACT-R), I am investigating whether predictions and memory 
-  retrievals are driven by sublexical units or whether they operate primarily on 
-  whole-word units. I evaluate my model predictions with experimental data from 
-  visual world eye-tracking.
+  I recently submitted my Ph.D. thesis in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
+  with a focus on sentence processing. My research investigates memory retrieval and predictive processing mechanisms in language comprehension and production, 
+  asking how these mechanisms unfold in real time and what units they operate on. 
+  My work draws on a broad range of methods, including eye-tracking and timed production experiments, statistical modeling (frequentist and Bayesian approaches), generalized additive mixed models and cognitive computational modeling.
 image_left: false
 images:
 - "Picknick.jpg"
