@@ -3,12 +3,12 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: >
-  <span style="line-height: 1.8;">I recently submitted my Ph.D. thesis in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
+  <span style="line-height: 1.5;">I recently submitted my Ph.D. thesis in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
   with a focus on sentence processing. My research investigates memory retrieval and predictive processing mechanisms in language comprehension and production, 
   asking how these mechanisms unfold in real time and what units they operate on.</span>
 
 
-  <p style="text-align: left; margin-top: 1.5em; line-height: 1.8;"><strong>Skills &amp; Interests</strong></p>
+  <p style="text-align: left; margin-top: 1.2em; line-height: 1.2;"><strong>Skills &amp; Interests</strong></p>
 
   <ul style="text-align: left; padding-left: 1.2em; margin-top: 0.2em; line-height: 1.8;">
   <li>Eye-tracking and timed production experiments</li>
