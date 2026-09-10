@@ -48,6 +48,12 @@ show_post_thumbnail: false
 
 ### CONFERENCE PRESENTATIONS
 
+* **Oltrogge, E.**, Lago, S., Veríssimo, J. & Patil, U. (2026). Predictions beyond the word: Evidence for morpheme-level incrementality from cognitive modeling and eye-tracking. Talk at *AMLaP*, Saarbrücken, Germany, September 2–4.
+* Gomes, J., Martinez Bruera, M., Parrish, K. & **Oltrogge, E.** (2026). The effect of coarticulation on L2 spoken word recognition. Poster at *AMLaP*, Saarbrücken, Germany, September 2–4.
+* Gomes, J., Martinez Bruera, M., Parrish, K. & **Oltrogge, E.** (2026). Coarticulatory cues in L2 spoken word recognition. Poster at *WoProc*, Lisbon, Portugal, July 6–8.
+* Gomes, J., Martinez Bruera, M., Parrish, K. & **Oltrogge, E.** (2026). Can L2 speakers use coarticulatory cues in spoken word recognition? Poster at *EuroSLA*, Lisbon, Portugal, June 24–27.
+* Gomes, J., Martinez Bruera, M., Parrish, K. & **Oltrogge, E.** (2026). The effect of coarticulation on L2 spoken word recognition. Poster at *HSP*, Cambridge, Massachusetts, March 26–28.
+* **Oltrogge, E.**, Lago, S., Veríssimo, J. & Patil, U. (2026). How incremental are predictions? Insights from cognitive modeling and eye-tracking. Talk at *HSP*, Cambridge, Massachusetts, March 26–28.
 * **Oltrogge, E.** & Patil, U. (2025). Modeling cue-based retrieval and prediction based on morpheme-level cues. Poster at *Computational Psycholinguistics Meeting 2025*, Utrecht, Netherlands, December 18-19.
 * **Oltrogge, E.**, Lee, E.-K. & Lago, S. (2025). Can planned words trigger interference during real-time sentence production? Poster at *AMLaP*, Prague, the Czech Republic, September 4–6.
 * Lee, E.-K., **Oltrogge, E.** & Lago, S. (2025). Can planned words trigger interference during real-time sentence production? Poster at *HSP*, College Park, Maryland, March 27-29.

@@ -32,9 +32,10 @@ show_post_thumbnail: false
   }
   
   .pub-links {
-  display: inline-flex;
+  display: flex;
   gap: 0.5em;
-  margin-left: 0.5em;
+  margin-left: 0;
+  margin-top: 0.4em;
   text-indent: 0; /* reset so it doesn't inherit the hanging indent */
 }
 
