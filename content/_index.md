@@ -15,13 +15,13 @@ description: >
   <li>Cognitive computational modeling</li>
   <li>Open data and open code</li>
   </ul>
-image_left: true
+image_left: false
 images:
 - "Picknick.jpg"
 # show_action_link: true
 show_social_links: true
 subtitle: Psycholinguistics Ph.D. student at Goethe University Frankfurt
-text_align_left: true
+text_align_left: false
 title: Elise Oltrogge
 type: home
 ---
