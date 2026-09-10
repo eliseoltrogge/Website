@@ -6,7 +6,12 @@ description: >
   I recently submitted my Ph.D. thesis in Psycholinguistics in the <a href="https://www.uni-frankfurt.de/102371493/Romance_Lab" target="_blank">Romance Lab</a> at Goethe University, 
   with a focus on sentence processing. My research investigates memory retrieval and predictive processing mechanisms in language comprehension and production, 
   asking how these mechanisms unfold in real time and what units they operate on. 
-  My work draws on a broad range of methods, including eye-tracking and timed production experiments, statistical modeling (frequentist and Bayesian approaches), generalized additive mixed models and cognitive computational modeling.
+  <ul>
+  <li>Eye-tracking and timed production experiments</li>
+  <li>Statistical modeling (frequentist and Bayesian approaches, generalized additive mixed models)</li>
+  <li>Cognitive computational modeling</li>
+  <li>Open and reproducible research</li>
+  </ul>
 image_left: false
 images:
 - "Picknick.jpg"
