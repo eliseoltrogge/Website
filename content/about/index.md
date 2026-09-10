@@ -8,7 +8,7 @@ description: >
   asking how these mechanisms unfold in real time and what units they operate on. 
   <p style="text-align: left; margin-top: 1.5em;"><strong>Skills &amp; Interests</strong></p>
 
-  <ul style="text-align: left; padding-left: 1.2em; margin-top: 0.3em;">
+  <ul style="text-align: left; padding-left: 1.2em; margin-top: 0.2em;">
   <li>Eye-tracking and timed production experiments</li>
   <li>Mixed-effects models (frequentist and Bayesian)</li>
   <li>Generalized additive mixed models</li>
